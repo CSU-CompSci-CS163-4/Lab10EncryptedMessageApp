@@ -31,7 +31,7 @@ Process finished with exit code 0
 Take a look at the [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab10/package-summary.html) and take note of the methods you need to create/implement. See what code has been provided and what still needs to be done. Brainstorm some ideas on how to implement these methods, and write your thoughts down.
 
 ## Step 2: Implementation
-Follow the [javadoc](javadoc/) and write some code. Make sure to write tests for your code as you work on each method.
+Follow the [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab10/package-summary.html) and write some code. Make sure to write tests for your code as you work on each method.
 
 ## Step 3: Finishing up
 To turn in your assignment, click through the link on
